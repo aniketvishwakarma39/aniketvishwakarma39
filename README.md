@@ -4,7 +4,7 @@
 - 💞️ I’m looking to be a Web developer 
 - 📫 How to reach me aniketvishwa39@gmail.com
 - 😄 Pronouns: Nomads Smith 
-- ⚡ Fun fact: Unable to talk with girls
+- ⚡ Fun fact: No fun fact about me 
 
 <!---
 aniketvishwakarma39/aniketvishwakarma39 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
