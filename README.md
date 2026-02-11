@@ -1,12 +1,36 @@
-- 👋 Hi, I’m Aniket Vishwakarma 
-- 👀 I’m interested in Coding & Sports 
-- 🌱 I’m currently learning Animation 
-- 💞️ I’m looking to be a Web developer 
-- 📫 How to reach me aniketvishwa39@gmail.com
-- 😄 Pronouns: Nomads Smith 
-- ⚡ Fun fact: No fun fact about me 
+# 👋 Hi, I'm Aniket Vishwakarma  
 
-<!---
-aniketvishwakarma39/aniketvishwakarma39 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Passionate about Coding, Technology & Sports  
+
+---
+
+## 💻 About Me  
+
+- 👀 I’m interested in **Web Development, Machine Learning & Problem Solving**
+- 🌱 Currently learning **Animation & Advanced Web Technologies**
+- 🎯 Goal: To become a **person I can genuinely respect.**
+- 🧠 Exploring **Django, Frontend Development & AI/ML**
+- 📫 Reach me at: **aniketvishwa39@gmail.com**
+- 😄 Pronouns: Nomads Smith  
+- ⚡ Fun Fact: I believe consistency beats talent 💪  
+
+---
+
+## 🛠️ Tech Stack  
+
+- 💡 Languages: Python, JavaScript, HTML, CSS  
+- 🌐 Web: Django, Frontend Development  
+- 📊 ML: Scikit-Learn, Pandas, NumPy  
+- 🛠️ Tools: Git, GitHub, VS Code  
+
+---
+
+## 📈 Currently Working On  
+
+- 🔹 Machine Learning Projects  
+- 🔹 Django Based Web Applications  
+- 🔹 Improving Data Structures & Algorithms  
+
+---
+
+⭐ Always learning. Always building. Always improving.
