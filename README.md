@@ -29,7 +29,7 @@
 
 - 🔹 Machine Learning Projects  
 - 🔹 Django Based Web Applications  
-- 🔹 Improving Data Structures & Algorithms  
+- 🔹 Data handeling  
 
 ---
 
