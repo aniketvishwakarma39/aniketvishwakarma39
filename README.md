@@ -11,8 +11,8 @@
 - 🎯 Goal: To become a **person I can genuinely respect.**
 - 🧠 Exploring **Django, Frontend Development & AI/ML**
 - 📫 Reach me at: **aniketvishwa39@gmail.com**
-- 😄 Pronouns: Nomads Smith  
-- ⚡ Fun Fact: I believe consistency beats talent 💪  
+- 😄 Pronouns: **Nomads Smith**  
+- ⚡ Fun Fact: **I believe consistency beats talent 💪**  
 
 ---
 
