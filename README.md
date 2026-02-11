@@ -12,7 +12,7 @@
 - 🧠 Exploring **Django, Frontend Development & AI/ML**
 - 📫 Reach me at: **aniketvishwa39@gmail.com**
 - 😄 Pronouns: **Nomads Smith**  
-- ⚡ Fun Fact: **I believe consistency beats talent 💪**  
+- ⚡ Fun Fact: **I believe confidence and Ego beats talent 💪**  
 
 ---
 
